@@ -5,10 +5,11 @@
 
 
 - 🌱 As a graduate student in Software Engineering and an ex-Software Engineer (3 years), I’m currently learning advanced data structures and algorithms, as well as exploring new technologies and frameworks to enhance my development skills.
-  My current tech-stack includes:
-  (Advanced) Java, TypeScript, Angular, HTML, CSS, OracleSQL
-  (Intermediate) Python, C, JavaScript, AngularJS, MySQL
-  (Basic) NodeJS, Docker, MongoDB
+
+- My current tech-stack includes:
+- (Advanced) Java, TypeScript, Angular, HTML, CSS, OracleSQL
+- (Intermediate) Python, C, JavaScript, AngularJS, MySQL
+- (Basic) NodeJS, Docker, MongoDB
 
 
 - 💞️ I’m looking to collaborate on open-source projects related to web development and software engineering.
