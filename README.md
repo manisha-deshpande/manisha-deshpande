@@ -1,10 +1,10 @@
 👋 Hi, I’m @manisha-deshpande
 
-👀 I’m interested in developing intuitive and user-friendly web apps, with a focus on backend development in Java.
+👀 I’m interested in developing intuitive and user-friendly web apps with a strong purpose, specializing in Java development.
   Moreover, coding algorithms that solve challenging problems is my serotonin💖!
 
 
-💻 I hold a Master's degree in Software Engineering and a Bachelor's in Computer Science & Engineering with over three years of industry experience as a Software Engineer.
+🎓 I hold a Master's degree in Software Engineering  and a Bachelor's in Computer Science & Engineering with over three years of industry experience as a Software Engineer. 💻
 
 🌱 Building on my academic and practical experiences, I’m continuously exploring new technologies and frameworks to enhance my development skills, including:
 - **(Advanced)** Java, REST APIs, TypeScript, Angular, HTML, CSS, OracleSQL, MySQL
@@ -17,7 +17,7 @@
 
   
 📫 You can find me on:
-- **LinkedIn**: linkedin.com/in/manisha-deshpande
+- **LinkedIn**: https://linkedin.com/in/manisha-deshpande
 - **Website**: https://manisha-deshpande.github.io/portfolio/
 
 
